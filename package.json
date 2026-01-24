@@ -1,0 +1,31 @@
+{
+  "name": "archimate",
+  "version": "1.0.0",
+  "description": "ArchiMate 3.2 enterprise architecture modeling language standard reference",
+  "main": "README.md",
+  "keywords": [
+    "archimate",
+    "enterprise-architecture",
+    "modeling-language",
+    "architecture-framework",
+    "opengroup",
+    "togaf",
+    "ea-modeling"
+  ],
+  "author": "DeepArchi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuangmi-bit/archimate-skill.git"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "references/**/*"
+  ],
+  "skill": {
+    "name": "archimate",
+    "description": "ArchiMate 3.2 enterprise architecture modeling language. Provides complete element types, relationship types, viewpoints, and best practices for enterprise architecture modeling.",
+    "version": "1.0.0"
+  }
+}
